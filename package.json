@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s06fd8q",
+  "description": "https://scrimba.com/s06fd8q/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}

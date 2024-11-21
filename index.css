@@ -1,0 +1,88 @@
+.mate-sc-regular {
+  font-family: "Mate SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+    font-family: Mate SC;
+    background: #003049;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+#title {
+    background: #111d13;
+    padding: 5px 15px;
+    border-radius: 15px;
+    font-size: 40px;
+}
+#sub-title {
+    background: #1e2d2f;
+    width: 500px;
+    padding: 5px 30px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#hero {
+    background-image: url(images/background-img.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 200px 0px;
+    background-size: cover;
+}
+#second {
+    background-color: #04151f;
+    padding: 20px;
+}
+.avatar-locations {
+    border-radius: 50%;
+    padding: 0 10px 0 10px;
+    width: 150px;
+    height: 150px;   
+}
+#mid-pics {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#mid-text {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.textbox {
+    width: 200px;
+}
+#mid-desc {
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+#third {
+    background-color: #efd6ac;
+    padding: 80px;
+}
+.card {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 15px 20px 15px;
+    display: flex;
+    background-color: #183a37;
+    border-bottom: 10px solid #432534;
+    border-radius: 2.5%;
+}
+.avatar {
+    width: 250px;
+    border-radius: 2.5%;
+}
+.border-blue {
+    border: 1px dotted blue;
+}
+.guidedesc {
+    width: 250px;
+    padding: 10px;
+}
+
+
